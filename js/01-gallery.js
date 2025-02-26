@@ -1,5 +1,4 @@
 import { galleryItems } from './gallery-items.js';
-// Ваш код
 const refs = {
   galleryListEl: document.querySelector('ul.gallery'),
   modalContainerEl: document.querySelector('div.lightbox'),

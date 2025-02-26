@@ -1,5 +1,4 @@
 import { galleryItems } from './gallery-items.js';
-// Ваш код
 // це gallery DOM element
 const galleryContainer = document.querySelector(".gallery");
 
